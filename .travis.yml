@@ -7,7 +7,7 @@ dist: focal
 install: skip
 
 stages:
-  - name: test
+  - name: test-commit-message
 
 jobs:
   include:
