@@ -11,7 +11,7 @@ stages:
 
 jobs:
   include:
-    - stage: test1
+    - stage: test2
       name: testing
       script: true
 
